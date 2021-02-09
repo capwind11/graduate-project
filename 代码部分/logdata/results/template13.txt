@@ -1,0 +1,2 @@
+['6336', ['081109', '203633', '147', 'INFO', 'dfs.DataNode$DataXceiver', 'writeBlock', 'received', 'exception', 'java.net.SocketTimeoutException', 'E7', 'writeBlock', '<*>', 'received', 'exception', '<*>']]
+['103969', ['081109', '205149', '629', 'INFO', 'dfs.DataNode$DataXceiver', 'writeBlock', 'received', 'exception', 'java.io.EOFException', 'E7', 'writeBlock', '<*>', 'received', 'exception', '<*>']]

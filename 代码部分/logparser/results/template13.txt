@@ -1,0 +1,3 @@
+[6492, ['INFO', 'dfs.DataNode$PacketResponder', 'PacketResponder', '2', 'Exception', 'java.io.EOFException'], 'E10']
+[103883, ['INFO', 'dfs.DataNode$PacketResponder', 'PacketResponder', '2', 'Exception', 'java.net.SocketTimeoutException:', '120000', 'millis', 'timeout', 'while', 'waiting', 'for', 'channel', 'to', 'be', 'ready', 'for', 'read.', 'ch', ':', 'java.nio.channels.SocketChannel[connected', 'local=', 'remote=]'], 'E10']
+[103959, ['INFO', 'dfs.DataNode$PacketResponder', 'PacketResponder', '1', 'Exception', 'java.io.InterruptedIOException:', 'Interruped', 'while', 'waiting', 'for', 'IO', 'on', 'channel', 'java.nio.channels.SocketChannel[connected', 'local=', 'remote=].', '59942', 'millis', 'timeout', 'left.'], 'E10']

@@ -1,0 +1,4 @@
+['30', ['081109', '203521', '19', 'INFO', 'dfs.DataNode', '"', 'Starting', 'thread', 'to', 'transfer', 'block', 'to', '"', 'E18', '<*>', 'Starting', 'thread', 'to', 'transfer', 'block', '<*>', 'to', '<*>']]
+['74', ['081109', '203526', '19', 'INFO', 'dfs.DataNode', '"', 'Starting', 'thread', 'to', 'transfer', 'block', 'to', '"', 'E18', '<*>', 'Starting', 'thread', 'to', 'transfer', 'block', '<*>', 'to', '<*>']]
+['117', ['081109', '203527', '19', 'INFO', 'dfs.DataNode', '"', 'Starting', 'thread', 'to', 'transfer', 'block', 'to', '"', 'E18', '<*>', 'Starting', 'thread', 'to', 'transfer', 'block', '<*>', 'to', '<*>']]
+['83901', ['081109', '204641', '19', 'INFO', 'dfs.DataNode', '"', 'Starting', 'thread', 'to', 'transfer', 'block', 'to', '"', 'E18', '<*>', 'Starting', 'thread', 'to', 'transfer', 'block', '<*>', 'to', '<*>']]

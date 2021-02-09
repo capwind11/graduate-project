@@ -1,0 +1,18 @@
+E5 INFO dfs.DataNode$DataXceiver Receiving block src: dest:
+E22 INFO dfs.FSNamesystem BLOCK* NameSystem.allocateBlock: *
+E11,E8 INFO dfs.DataNode$PacketResponder PacketResponder * for block *
+E9 INFO dfs.DataNode$PacketResponder Received block of size * from
+E26 INFO dfs.FSNamesystem BLOCK* NameSystem.addStoredBlock: blockMap updated: is added to size *
+E6 INFO dfs.DataNode$DataXceiver Received block src: dest: of size *
+E16 INFO dfs.DataNode$DataTransfer Transmitted block to
+E18 INFO dfs.DataNode Starting thread to transfer block to
+E25 INFO dfs.FSNamesystem BLOCK* ask to replicate to datanode(s)
+E3 INFO dfs.DataNode$DataXceiver Served block to
+E2 INFO dfs.DataBlockScanner Verification succeeded for
+E7 INFO dfs.DataNode$DataXceiver writeBlock received exception *
+E10 INFO dfs.DataNode$PacketResponder PacketResponder * Exception *
+E21 INFO dfs.FSDataset Deleting block file *
+E13 INFO dfs.DataNode$BlockReceiver Receiving empty packet for block
+E14 INFO dfs.DataNode$BlockReceiver Exception in receiveBlock for block *
+E27 WARN dfs.FSNamesystem BLOCK* NameSystem.addStoredBlock: Redundant addStoredBlock request received for on size 67108864
+E15 INFO dfs.DataNode$BlockReceiver Changing block file offset of block from 0 to 30867456 meta file offset to 241159

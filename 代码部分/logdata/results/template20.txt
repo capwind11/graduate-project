@@ -1,0 +1,1 @@
+['103105', ['081109', '204917', '35', 'WARN', 'dfs.FSNamesystem', 'BLOCK*', 'NameSystem.addStoredBlock:', 'Redundant', 'addStoredBlock', 'request', 'received', 'for', 'on', 'size', '67108864', 'E27', 'BLOCK*', 'NameSystem.addStoredBlock:', 'Redundant', 'addStoredBlock', 'request', 'received', 'for', '<*>', 'on', '<*>', 'size', '<*>']]
